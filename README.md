@@ -3,18 +3,16 @@
 ### A little info about me...
 I enjoy coding of all sorts, be it web development, machine learning or API wrapping. I live in London although I'm originally from Delhi, India.
 
+### Languages I know or am learning!
 
-<!--
-**doublevcodes/doublevcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I am fluent in **Python**
+2. I'm currently learning **C** and **C++**
+3. I know most **HTML**, **CSS**, and **JS** for web dev
+4. I am currently exploring **Vue.js**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/doublevcodes">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=doublevcodes&show_icons=true&theme=vue-dark"/>
+</a>
+<a href="https://github.com/doublevcodes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublevcodes&theme=vue-dark" />
+</a>
