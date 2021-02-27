@@ -1,4 +1,8 @@
-### Hi there 👋
+<img src='https://github.com/doublevcodes/doublevcodes/blob/main/ezgif.com-video-to-gif.gif' height='372'>
+
+### A little info about me...
+I enjoy coding of all sorts, be it web development, machine learning or API wrapping. I live in London although I'm originally from Delhi, India.
+
 
 <!--
 **doublevcodes/doublevcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
