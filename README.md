@@ -37,9 +37,10 @@ class VivaanVerma:
         self.languages = ['Python', 'C', 'C++']
         self.is_amazing = True
         self.mastery = False
+        self.understanding = f'{random.randint(60, 70)}%'
 
     def code(self):
-        if len(self.languages) > 10:
+        if len(self.languages) > 100%:
             self.mastery = True
         else:
             self.languages.append(random.choice(*languages))
