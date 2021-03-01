@@ -40,7 +40,7 @@ class VivaanVerma:
         self.understanding = f'{random.randint(60, 70)}%'
 
     def code(self):
-        if len(self.languages) > 100%:
+        if self.understanding > 100%:
             self.mastery = True
         else:
             self.languages.append(random.choice(*languages))
