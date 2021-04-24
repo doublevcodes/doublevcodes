@@ -17,7 +17,7 @@ I enjoy coding of all sorts, be it web development, machine learning or API wrap
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=doublevcodes&show_icons=true&theme=vue-dark" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublevcodes&theme=vue-dark&layout=compact" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=doublevcodes&repo=Enceladus.py&theme=vue-dark)](https://github.com/doublevcodes/enceladus)
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doublevcodes&repo=vlang&theme=vue-dark" />
 
 -----
 
