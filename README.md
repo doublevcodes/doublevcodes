@@ -17,7 +17,7 @@ I enjoy coding of all sorts, be it web development, machine learning or API wrap
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=doublevcodes&show_icons=true&theme=vue-dark" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doublevcodes&theme=vue-dark&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doublevcodes&repo=vlang&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=doublevcodes&repo=gravitron&theme=vue-dark" />
 
 -----
 
@@ -29,7 +29,7 @@ class VivaanVerma:
 
     def __init__(self) -> 'An amazing person':
         self.name = "Vivaan Verma"
-        self.age = 12
+        self.age = 13
         self.languages = ['Python', 'C', 'C++']
         self.is_amazing = True
         self.mastery = False
